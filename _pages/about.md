@@ -52,8 +52,7 @@ Internship and Work Experience
 
 - **06.2025–08.2025**: Research Intern at [Johns Hopkins Bloomberg School of Public Health, Department of Biostatistics](https://publichealth.jhu.edu/departments/biostatistics), supervised by [Prof. Ni Zhao](https://publichealth.jhu.edu/faculty/3331/ni-zhao), working on spatial transcriptomics analysis.  
 
-- **07.2023–09.2024**: Remote Research Intern at [Ray and Stephanie Lane Computational Biology Department, School of Computer Science, Carnegie Mellon University](https://www.cmu.edu/cbd/index.html),  
-  supervised by Prof. [Min Xu](https://www.cmu.edu/cbd/people/xu.html), working on 3D medical image analysis and cryo-EM, where I contributed to ["Probabilistic-aware Weakly Supervised 3D Medical Image Segmentation"](https://arxiv.org/abs/2403.02566).  
+- **07.2023–09.2024**: Remote Research Intern at [Ray and Stephanie Lane Computational Biology Department, School of Computer Science, Carnegie Mellon University](https://www.cmu.edu/cbd/index.html), supervised by Prof. [Min Xu](https://www.cmu.edu/cbd/people/xu.html), working on 3D medical image analysis and cryo-EM, where I contributed to ["Probabilistic-aware Weakly Supervised 3D Medical Image Segmentation"](https://arxiv.org/abs/2403.02566).  
 
 - **07.2023–08.2024**: Research Intern at [Institute of Advanced Computing and Digital Engineering, Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences](https://szs.siat.ac.cn/), supervised by [Prof. Ruxin Wang](https://people.ucas.ac.cn/~rxwang), working on multimodal medical imaging, where I led the first-author work on ["Multimodal Medical Endoscopic Image Analysis via Progressive Disentangle-aware Contrastive Learning"](https://arxiv.org/abs/2508.16882).
 
