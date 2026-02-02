@@ -9,9 +9,8 @@ redirect_from:
 About me
 ======
 I am a second-year Ph.D. student in the [Department of Computer & Information Sciences at Towson University](https://www.towson.edu/fcsm/departments/computerinfosci/), 
-supervised by [Prof. Xin Huang](https://www.towson.edu/fcsm/departments/computerinfosci/facultystaff/xin-huang.html). My research interests lie in Artificial Intelligence, with a primary focus on GeoAI and medical image analysis. Currently, I am particularly interested in developing foundation models for scientific domains, and I am working on building a foundation model for land use and land cover (LULC) understanding in GeoAI, aiming to enable more practical and generalizable real-world applications. I previously received my B.Eng. degree in Artificial Intelligence from 
-[Jinan University](https://sisse.jnu.edu.cn/).
-.
+supervised by [Prof. Xin Huang](https://www.towson.edu/fcsm/departments/computerinfosci/facultystaff/xin-huang.html). My research interests lie in Artificial Intelligence, with a primary focus on GeoAI and medical image analysis. Currently, I am particularly interested in developing foundation models for scientific domains, and I am working on building a foundation model for land use and land cover (LULC) understanding in GeoAI, aiming to enable more practical and generalizable real-world applications. I previously received my B.Eng. degree in [Artificial Intelligence, Jinan University](https://sisse.jnu.edu.cn/).
+
 
 
 
