@@ -29,9 +29,13 @@ My primary research interests lie in Artificial Intelligence, mainly focusing on
 News!
 ======
 Jan/27/2026, Glad to announce that our paper "Semi-MedSAM: Adapting SAM-assisted Semi-supervised Multi-modality Learning for Medical Endoscopic Image Segmentation" is accepted by **Pattern Recognition**!
+
 Oct/9/2025, Honored to be invited as a reviewer for **3DV 2026**.
+
 Sep/3/2025, Happy to share that I am awarded a Travel Grant from Towson University!
+
 Aug/5/2025, Excited to announce that our paper "Baltimore Atlas: FreqWeaver Adapter for Semi-supervised Ultra-high Spatial Resolution Land Cover Classification" is accepted by **ACM SIGSPATIAL 2025**!
+
 May/7/2025, Glad to share that our paper "Progressive Enhancement Dehazing for Object Detection in Extreme Weather" is accepted by **EAAI**!
 
 
